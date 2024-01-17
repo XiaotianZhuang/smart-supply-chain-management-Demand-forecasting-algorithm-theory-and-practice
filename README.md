@@ -23,7 +23,7 @@
 1. **克隆仓库**：首先，您需要克隆或下载此代码仓库到您的本地计算机。
 
    ```
-   git clone https://github.com/your-repository/smart-supply-chain.git
+   git clone https://github.com/XiaotianZhuang/smart-supply-chain-management-Demand-forecasting-algorithm-theory-and-practice.git
    ```
 
 2. **安装依赖**：根据代码中的`requirements.txt`文件安装必要的Python库。
