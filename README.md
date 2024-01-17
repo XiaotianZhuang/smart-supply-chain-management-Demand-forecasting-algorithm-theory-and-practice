@@ -57,6 +57,6 @@
 
 - 作者：庄晓天
 - 邮箱：xiaotian.zhuang@gmail.com
-- 项目主页：
+- 项目主页：https://github.com/XiaotianZhuang/smart-supply-chain-management-Demand-forecasting-algorithm-theory-and-practice
 
 感谢您对《智能供应链：预测算法理论与实践》的支持！
