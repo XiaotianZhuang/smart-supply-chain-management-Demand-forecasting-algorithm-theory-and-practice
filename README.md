@@ -30,6 +30,8 @@
 
 2. **安装依赖**：根据代码中的`requirements.txt`文件安装必要的Python库。
 
+   请使用Python3.8及以上的环境进行。
+
    ```
    pip install -r requirements.txt
    ```
